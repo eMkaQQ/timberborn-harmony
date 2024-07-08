@@ -1,5 +1,10 @@
 {
   "name": "com.emka.just-harmony",
   "version": "2.3.3",
-  "displayName": "Just Harmony"
+  "displayName": "Just Harmony",
+  "description": "A simple wrapper for a C# patching library called Harmony, to make it ready to use in Timberborn mods.",
+  "author": {
+    "name": "Marcin Wierzchos",
+    "url": "https://github.com/eMkaQQ/just-harmony/"
+  }
 }
