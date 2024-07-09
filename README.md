@@ -1,4 +1,4 @@
-# Just Harmony
+# Timberborn Harmony mod
 A simple wrapper for a C# patching library called Harmony, to make it ready to use in Timberborn mods. Learn about Harmony [here](https://github.com/pardeike/Harmony) and [here](https://harmony.pardeike.net/)
 
 ## How to use
