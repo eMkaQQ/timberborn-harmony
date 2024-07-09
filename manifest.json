@@ -1,7 +1,7 @@
 {
-  "Name": "Just Harmony",
+  "Name": "Harmony",
   "Version": "2.3.3",
-  "Id": "eMka.JustHarmony",
+  "Id": "Harmony",
   "MinimumGameVersion": "0.6.0.0",
   "Description": "A simple wrapper for a C# patching library called Harmony, to make it ready to use in Timberborn mods. It doesn't do anything on its own, but may be required by some mods.\n\nIf you are a modder, check out \"How to use it\" section on the github repository: https://github.com/eMkaQQ/timberborn-modding \n\nDisclaimer: although I work for Mechanistry and I'm one of the developers of Timberborn, this mod is my personal creation, made independently of my job. It shouldn't be considered official game content nor associated with Mechanistry in any way.",
   "RequiredMods": [
