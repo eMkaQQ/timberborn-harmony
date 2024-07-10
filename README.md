@@ -1,6 +1,8 @@
 # Timberborn Harmony mod
 A simple wrapper for a C# patching library called Harmony, to make it ready to use in Timberborn mods. Learn about Harmony [here](https://github.com/pardeike/Harmony) and [here](https://harmony.pardeike.net/)
 
+The version of the Harmony release being used is indicated by the mod version. Using dll from Harmony-Fat package, that targets .Net Framework 4.5.2.
+
 ## How to use
 If you are making your mod using Unity, install this repository as a github package via the Package Manager.
 
