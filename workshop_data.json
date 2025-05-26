@@ -1,8 +1,8 @@
 {
   "ItemId": "3284904751",
-  "Name": "Just Harmony",
+  "Name": "Harmony",
   "Visibility": "Private",
-  "UpdateDescription": true,
-  "UpdateVisibility": true,
-  "UpdatePreview": true
+  "UpdateDescription": false,
+  "UpdateVisibility": false,
+  "UpdatePreview": false
 }

@@ -1,6 +1,6 @@
 {
   "name": "com.emka.timberborn-harmony",
-  "version": "2.3.3",
+  "version": "2.3.6",
   "displayName": "Timberborn Harmony",
   "description": "A simple wrapper for a C# patching library called Harmony, to make it ready to use in Timberborn mods.",
   "author": {
